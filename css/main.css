@@ -4,7 +4,7 @@
 :root {
   --primary-bg-color: #f7fbfd;
   --primary-accent: #0c1618;
-  --secondary-accent: #6f1d1b;
+  --secondary-accent: #5a1358;
 
   --main-text-color: #0c1618;
   --supportive-text-color: #242d2f;
@@ -12,7 +12,7 @@
 
   --white-color: #fff;
   --gray-color: #e9e8e8;
-  --gray-color-2: #c0c0c0;
+  --gray-color-2: #f5bd54;
   --gray-color-3: #e6e6e6;
 
   --color-preloader-bg: var(--white-color);
@@ -79,7 +79,7 @@ body {
 }
 
 .btn:active {
-  background-color: #8b4a48;
+  background-color: #f5bd54;
 }
 
 .btn-white {

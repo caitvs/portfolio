@@ -25,7 +25,7 @@ try {
   $mail->Port       = 465;
 
   $mail->setFrom('from@example.com', $title);
-  $mail->addAddress('youraddress@mail.me');
+  $mail->addAddress('caitvansteenis@gmail.com');
   $mail->isHTML(true);
   $mail->Subject = $title;
   $mail->Body = $body;
